@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
+
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">Scala Developer, OSS contributor, Scala Ukraine Community Runner</h3>
 
